@@ -1,0 +1,14 @@
+.header {
+    color: rgb(255, 255, 255);
+    background-color: hsl(0, 0%, 0%);
+}
+
+.footer {
+    background-color: hsl(59, 98%, 50%);
+}
+
+.footer,
+.header {
+    font-family: helvetica, 'times new roman', 'sans-serif';
+    font-size: 28px;
+}
