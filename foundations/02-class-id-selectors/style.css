@@ -1,0 +1,19 @@
+.header {
+    font-family: 'Times New Roman', sans-serif, serif;
+    background-color: rgb(253, 0, 72);
+}
+
+#special {
+    color: blue;
+    font-size: 36px;
+}
+
+.footer {
+    font-size: 24px;
+}
+
+#condition {
+    font-size: 24px;
+    background-color: hsl(124, 55%, 71%);
+    font-weight: bold;
+}
